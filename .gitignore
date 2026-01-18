@@ -1,0 +1,13 @@
+# --- Python Basics ---
+__pycache__/
+*.pyc
+
+# --- PyInstaller (The "dist" folder is huge, don't upload it) ---
+build/
+dist/
+*.spec
+
+*.json
+
+# --- VS Code Settings ---
+.vscode/
